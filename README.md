@@ -1,6 +1,8 @@
 ### Hey there, I'm Ashmin Jayson 👋⚡
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshminJayson)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=AshminJayson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
 <!--
