@@ -1,13 +1,11 @@
 ### Hey there, I'm Ashmin Jayson 👋⚡
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshminJayson)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=AshminJayson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
-<!--
-**AshminJayson/AshminJayson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshminJayson&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshminJayson&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
