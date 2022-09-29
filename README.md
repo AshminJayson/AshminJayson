@@ -1,4 +1,4 @@
-### <samp> &gt; Hey there, I'm Ashmin Jayson 👋⚡
+### <samp> &gt; Hey there, I'm Ashmin Jayson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/ashmin-jayson-2b6102216)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_ashmin.j._/)
