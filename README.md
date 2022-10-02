@@ -21,9 +21,6 @@ ___
 
 ___
 
-<h5> Here's what I did this week </h5>
-
-[![Ashmin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ashminjayson)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
