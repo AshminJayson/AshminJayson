@@ -17,7 +17,7 @@ ___
 - 🏫 I'm currently pursuing my bachelors in [CSE (Data Science)](https://www.mace.ac.in/)
 - 🧑‍💻 I'm well versed with DSA implementation using _C++_
 - 🧩 I'd like to explore the world of **ML** and **AI**
-- 📄 Here's my [CV](https://docs.google.com/document/d/1i67psW5k0B1SYoBavyh3z4umfQ2XM6p3J950A7SvNmk/edit?usp=sharing)
+- 📄 Here's my [CV](https://drive.google.com/file/d/1kuDyf4z6JuDiHdUYtP3xpLMNCvqPgBPc/view?usp=sharing)
 
 ___
 
