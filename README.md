@@ -2,7 +2,7 @@
 
 
 <h5 align = "center">  &gt; 
-I'm a 3rd year data science student with an insatiable desire to gain an understanding on the evolving technological world by pursuing opportunities to become adept in Big data analysis and development of predictive software based solutions for everyday problems.
+I'm a 3rd year data science student with an insatiable desire to gain an understanding on the evolving technological world by pursuing opportunities to become adept in Big data analysis and development of software aided solutions for everyday problems.
 </h5>
 
 ___
