@@ -15,7 +15,7 @@ ___
 
 - ⚙️ I'm currently learning Pandas 🐼
 - 🏫 I'm currently pursuing my bachelors in [CSE (Data Science)](https://www.mace.ac.in/)
-- 🧑‍💻 I'm well versed with DSA implementation using _C++_
+- 🧑‍💻 I'm well versed with DSA implementation using _Python 🐍_
 - 🧩 I'd like to explore the world of **ML** and **AI**
 - 📄 Here's my [CV](https://drive.google.com/file/d/1kuDyf4z6JuDiHdUYtP3xpLMNCvqPgBPc/view?usp=sharing)
 
