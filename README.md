@@ -13,7 +13,7 @@ ___
 <a href="https://www.instagram.com/_ashmin.j._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashminjayson" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ashminj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashminjayson" height="30" width="40" /></a>
 
-- ⚙️ I'm currently learning Pandas 🐼
+- ⚙️ I'm currently learning React ( And so many things I can't keep track of on the side 🥲)
 - 🏫 I'm currently pursuing my bachelors in [CSE (Data Science)](https://www.mace.ac.in/)
 - 🧑‍💻 I'm well versed with DSA implementation using _Python 🐍_
 - 🧩 I'd like to explore the world of **ML** and **AI**
