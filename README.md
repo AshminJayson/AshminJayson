@@ -20,7 +20,16 @@ ___
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1qaWf4eXmRl9YJiCwlsRqGALJmXvC8ADg/view?usp=share_link)
 
 ___
-
+  
+  <h3 align = "center"> My Technical Stack :   
+    
+  <p>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,dotnet,mongodb,express,react,nodejs,python,cpp,c#" />
+  </a>
+</p>
+  
 
 
 
