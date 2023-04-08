@@ -16,7 +16,7 @@ ___
 - ⚙️ I'm currently learning React ( And so many things I can't keep track of on the side 🥲)
 - 🏫 I'm currently pursuing my bachelors in [CSE (Data Science)](https://www.mace.ac.in/)
 - 🧑‍💻 I'm well versed with DSA implementation using _Python 🐍_
-- 🧩 I'd like to explore the world of **ML** and **AI**
+- 🧩 I really wanna dip by toes 🐾 in everything.
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1qaWf4eXmRl9YJiCwlsRqGALJmXvC8ADg/view?usp=share_link)
 
 ___
