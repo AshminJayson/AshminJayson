@@ -21,7 +21,7 @@ ___
 
 ___
   
-  <h3 align = "center"> My Technical Stack :   
+  <h3 align = "center"> My Technical Stack  
     
   <p>
   <p align="center">
