@@ -13,9 +13,12 @@ ___
 <a href="https://www.instagram.com/_ashmin.j._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashminjayson" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ashminj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashminjayson" height="30" width="40" /></a>
 
+- 🧑‍🦰 **SDE Intern** at **CareStack** working on a feature extension to the PMS platform.
 - ⚙️ Currently diving into **Angular** and **ASP.NET**
+- 📚 Tech agnostic Full Stack developer with experience doing projects in Angular and React along with backends in Flask, Node and ASP.NET
+- 🧹 Striving to write clean code that explains itself without the need for comments.
 - 🏫 Soon to get my bachelors in [CSE (Data Science)](https://www.mace.ac.in/)
-- 🧑‍💻 I'm pretty good with DSA implementation using _Python 🐍_
+- 🧑‍💻 Proficient with DSA implementation using _Python 🐍_
 - 🧩 I really wanna dip my toes 🐾 in everything.
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1qaWf4eXmRl9YJiCwlsRqGALJmXvC8ADg/view?usp=share_link)
 
