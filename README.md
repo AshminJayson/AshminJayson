@@ -20,7 +20,7 @@ ___
 - 🧹 Striving to write clean code that explains itself without the need for comments
 - 📖 I'm currently reading upon _Clean architecture_ and _Agile practices_
 - 🏫 Soon to get my bachelors in [CSE (Data Science)](https://www.mace.ac.in/)
-- 🧑‍💻 Proficient with DSA implementation using _Python 🐍_
+- 💻 Proficient with DSA implementation using _Python 🐍_
 - 🧩 I wanna dip my toes 🐾 in everything
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1qaWf4eXmRl9YJiCwlsRqGALJmXvC8ADg/view?usp=share_link)
 
