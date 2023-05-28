@@ -9,8 +9,8 @@ ___
 
 <p align="center">
 <a href="https://dev.to/ashminjayson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashmin-jayson" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashmin-jayson-2b6102216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashminjayson" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_ashmin.j._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashminjayson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashmin-jayson-2b6102216/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="ashminjayson" height="40" width="40" /></a>
+<a href="https://www.instagram.com/_ashmin.j._/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="ashminjayson" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/ashminj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ashminjayson" height="30" width="40" /></a>
 
 - 🧑 **SDE Intern** at **CareStack** working on a feature extension to the PMS platform  
