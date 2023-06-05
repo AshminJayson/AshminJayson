@@ -33,6 +33,15 @@ ___
   </a>
 </p>
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   4 hrs 42 mins   ██████████████▒░░░░░░░░░░   57.47 %
+Python       2 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+JSON         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+TSConfig     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+```
+
 <!--END_SECTION:waka-->
 
 
