@@ -32,6 +32,9 @@ ___
     <img src="https://skillicons.dev/icons?i=angular,react,dotnet,express,azure,nodejs,mongodb,firebase,mysql,gitlab,python,cpp,c#" />
   </a>
 </p>
+
+<!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
   
 
 
