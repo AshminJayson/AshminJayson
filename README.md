@@ -25,25 +25,20 @@ ___
 
 ___
   
-  <h3 align = "center"> My Technical Stack</h3>
+<h3 align = "center"> My Technical Stack</h3>
   
-  <p align="center">
+<p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,scss" />
-    </a>
-  </p>
-  
-  <p align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,scss" /> 
+    </a> ~
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" />
+    </a> ~
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=azure,mongodb,firebase,mysql,supabase" />
     </a>
-  </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,mongodb,firebase,mysql,supabase" />
-  </a>
 </p>
+
 
 <div align="center">
 <!--START_SECTION:waka-->
