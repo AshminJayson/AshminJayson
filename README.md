@@ -1,9 +1,16 @@
 ![](./assets/Banner%20Image.png)
 
-<h1 align = "center"> Hey there, I'm Ashmin Jayson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<h1 align = "center">
+
+Hey there, I'm Ashmin Jayson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
 <h5 align = "center">  &gt; 
 I'm a junior-year data science student pursuing opportunities to be adept in web technologies as well as the potential integrations between machine learning and web applications.
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=AshminJayson&style=for-the-badge&color=d74a66)
+
 </h5>
 
 ---
