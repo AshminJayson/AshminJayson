@@ -29,7 +29,7 @@ I'm a junior-year data science student pursuing opportunities to be adept in web
 
 ---
 
-<h3 align = "center"> My Technical Stack</h3>
+<h3 align = "center"> ⚙️ My Technical Stack</h3>
   
 <p align="center">
     <a href="https://skillicons.dev">
@@ -56,3 +56,9 @@ JavaScript   19 mins         ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </div>
+
+<!-- <h2 align="center">📊 Statistics</h2> -->
+<!-- <p align="center"> -->
+<!-- <img height="200px" width="380px" src="https://github-readme-stats.vercel.app/api?username=AshminJayson&show_icons=true&theme=tokyonight" />      -->
+<!-- <img height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=AshminJayson&show_icons=true&theme=tokyonight" /> -->
+<!-- <p/> -->
