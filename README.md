@@ -47,11 +47,11 @@ I'm a junior-year data science student pursuing opportunities to be adept in web
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs 49 mins  ████████████████████░░░░░   79.45 %
-CSS          1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-JSON         1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Python       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-PowerShell   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+TypeScript   13 hrs 47 mins  █████████████████████░░░░   84.53 %
+CSS          1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Python       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+PowerShell   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
