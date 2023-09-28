@@ -5,7 +5,7 @@
 Hey there, I'm [Ashmin Jayson](https://www.ashminjayson.tech) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
 <h5 align = "center">  &gt; 
-I'm a junior-year data science student pursuing opportunities to be adept in web technologies as well as the potential integrations between machine learning and web applications.
+I'm a final-year data science student pursuing opportunities to be adept in web technologies as well as the potential integrations between machine learning and web applications.
 
 </h5>
 
